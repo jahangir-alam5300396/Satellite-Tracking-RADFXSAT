@@ -26,16 +26,6 @@ Conducted as part of coursework at Hochschule Bremen.
 Ground station: Bremen, Germany  
 Satellites: RADFXSAT, SO-50, AO-7
 
-## 👨‍💻 Contributors
 
-- Md Jahangir Alam (5300396)  
-- Nurujjaman Shawn (5305867)  
-- Kausar Ahmed (5347397)
-
-## 📅 Date
-
-February 2025
-
----
 
 📬 Connect: [LinkedIn](https://www.linkedin.com/in/md-jahangir02)
